@@ -1,6 +1,6 @@
 # File: lib/reminder.py
 
-class Reminder:
+class Reminder_error:
     def __init__(self, name):
         self.name = name
         self.task = None
